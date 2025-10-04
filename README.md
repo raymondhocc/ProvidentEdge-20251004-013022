@@ -1,6 +1,6 @@
 # ProvidentEdge: MPF Administration System
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/ProvidentEdge-20251004-013022)
 
 ProvidentEdge is a visually stunning, minimalist, and modern web application for managing Hong Kong's Mandatory Provident Fund (MPF). It provides a seamless and intuitive interface for both employees and employers. Employees can track their portfolio's total value, monitor investment performance with elegant charts, view detailed contribution history, and manage their investment fund allocations. Employers can efficiently administer employee contributions, track payment history, and manage their roster. The application prioritizes clarity, data visualization, and a frictionless user experience, transforming a typically complex administrative task into a simple and delightful one.
 
@@ -93,4 +93,4 @@ This will publish your application and make it available at the URL provided in 
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/ProvidentEdge-20251004-013022)
